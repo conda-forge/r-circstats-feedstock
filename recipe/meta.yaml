@@ -48,4 +48,4 @@ about:
     - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
 extra:
   recipe-maintainers:
-    - jsignell
+    - conda-forge/r

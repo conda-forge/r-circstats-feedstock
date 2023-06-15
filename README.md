@@ -1,11 +1,11 @@
-About r-circstats
-=================
+About r-circstats-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-circstats-feedstock/blob/main/LICENSE.txt)
 
 Home: S-plus original at http://statweb.calpoly.edu/lund/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-circstats-feedstock/blob/main/LICENSE.txt)
 
 Summary: Circular Statistics, from "Topics in circular Statistics" (2001) S. Rao Jammalamadaka and A. SenGupta, World Scientific.
 
